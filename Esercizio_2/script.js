@@ -1,12 +1,12 @@
 // CREA UN SISTEMA DI VALUTAZIONE CHE, DATA UN'ETA', DETERMINI LA CATEGORIA (BAMBINO 0-12, ADOLESCENTE 13-17, ADULTO 18-64, ANZIANO 65+) E SUGGERISCA UN'ATTIVITA' 
 // APPROPRIATA! GESTISCI, INOLTRE, LA CASISTICA DEI NUMERI NEGATIVI!
 
-//let eta = 23;
-//console.log(eta < 0 ? 'Hai inserito un'età NON VALIDA!);
-//console.log(eta>=0 && eta<=12 ? 'Sei un bambino!');
-//console.log(eta>=13 && eta<=17 ? 'Sei un adolescente!');
-//console.log(eta>=18 && eta<=64 ? 'Sei un adulto!');
-//console.log(eta>=65 ? 'Sei un anziano!');
+//let etaaa = 23;
+//console.log(etaaa < 0 ? 'Hai inserito un'età NON VALIDA!);
+//console.log(etaaa>=0 && etaaa<=12 ? 'Sei un bambino!');
+//console.log(etaaa>=13 && etaaa<=17 ? 'Sei un adolescente!');
+//console.log(etaaa>=18 && etaaa<=64 ? 'Sei un adulto!');
+//console.log(etaaa>=65 ? 'Sei un anziano!');
 
 
 //<------------------------------------------------------------------>
